@@ -1,0 +1,4 @@
+# Local QA screenshots / browser traces are not deployment artifacts.
+qa/
+__pycache__/
+*.log

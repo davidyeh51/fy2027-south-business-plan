@@ -1,0 +1,50 @@
+[
+  {
+    "id": "rooftop",
+    "file": "assets/rooftop.jpg",
+    "title": "Solar panels on a roof.jpg",
+    "author": "Pujanak",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Solar_panels_on_a_roof.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Solar_panels_on_a_roof.jpg",
+    "changes": "Resized and JPEG-compressed; may be visually cropped in slide layouts.",
+    "note": "Illustrative stock/context image, not a photograph of the projects in this plan."
+  },
+  {
+    "id": "canopy",
+    "file": "assets/canopy.jpg",
+    "title": "Parking under Solar Canopy (52937580768).jpg",
+    "author": "pedrik",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parking_under_Solar_Canopy_(52937580768).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Parking_under_Solar_Canopy_%2852937580768%29.jpg",
+    "changes": "Resized and JPEG-compressed; may be visually cropped in slide layouts.",
+    "note": "Illustrative stock/context image, not a photograph of the projects in this plan."
+  },
+  {
+    "id": "datacenter",
+    "file": "assets/datacenter.jpg",
+    "title": "Datacenter Server Racks (22370909788).jpg",
+    "author": "Carl Lender from Sunrise, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Datacenter_Server_Racks_%2822370909788%29.jpg",
+    "changes": "Resized and JPEG-compressed; may be visually cropped in slide layouts.",
+    "note": "Illustrative stock/context image, not a photograph of the projects in this plan."
+  },
+  {
+    "id": "installation",
+    "file": "assets/installation.jpg",
+    "title": "Installing solar panels (3049873254).jpg",
+    "author": "Oregon Department of Transportation",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Installing_solar_panels_(3049873254).jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Installing_solar_panels_%283049873254%29.jpg",
+    "changes": "Resized and JPEG-compressed; may be visually cropped in slide layouts.",
+    "note": "Illustrative stock/context image, not a photograph of the projects in this plan."
+  }
+]
